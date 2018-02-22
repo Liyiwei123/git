@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BBill.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BBillExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BPay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BPay2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BPayExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BSort2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BSortExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BUserExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/BaseBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/MonthBillListBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/MonthChartListBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/MonthPayListBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bean/NoteListBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/BBillController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/BNoteController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/BUserController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/FileController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/BBillMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/BPayMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/BSortMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/BUserMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/BBillService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/BPayService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/BSortService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/service/BUserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/MBGTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/MD5Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/MailTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/DateUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/MDUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/MailUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/StringUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/UploadPictureUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/dispatcherServlet-servlet.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
